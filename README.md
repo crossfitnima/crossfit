@@ -6,6 +6,6 @@ motivates me to commit and push code every day, so I figured I'd transport that 
 field where I would like to build consistence and discipline in.
 
 [x] Wed, 17 July 2013 @ 9:00PM
-  - Calisthenics Kingz
+  Desc: Calisthenics Kingz
 [x] Wed, 18 July 2013 @ 9:00PM
-  - Calisthenics Kingz
+  Desc: Calisthenics Kingz
