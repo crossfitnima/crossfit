@@ -12,3 +12,7 @@ field where I would like to build consistency and discipline in.
 
 ###### [x] Thu, 18 July 2013 @ 9:00PM  
   > Calisthenics Kingz
+
+###### [x] Fri, 19 July 2013 @ 8:40PM  
+  > Calisthenics Kingz  
+  > 40 Consecutive Double-unders
