@@ -1,4 +1,4 @@
-CrossFit Workout Journal
+Workout Journal
 ========
 
 Using GitHub's contributions/streak graph, here, to keep track of how often I workout. I realized this graph
@@ -19,3 +19,7 @@ field where I would like to build consistency and discipline in.
 
 ###### [x] Sat, 20 July 2013 @ 10:50PM  
   > Calisthenics Kingz
+
+###### [x] Sun, 21 July 2013 @ 10:50PM  
+  > Yoga (20 minutes)  
+  > Emphasis on hips and hamstrings
