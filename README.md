@@ -23,3 +23,7 @@ field where I would like to build consistency and discipline in.
 ###### [x] Sun, 21 July 2013 @ 10:50PM  
   > Yoga (20 minutes)  
   > Emphasis on hips and hamstrings
+
+###### [x] Mon, 22 July 2013 @ 11:30PM  
+  > Yoga (10 minutes)  
+  > Emphasis on hips and hamstrings
